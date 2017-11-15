@@ -1,0 +1,21 @@
+* text=auto
+
+*.bash text
+*.c text
+*.cs text
+*.go text
+*.java text
+*.js text
+*.md text
+*.py text
+
+*.png binary
+
+.editorconfig text
+.gitattributes text
+.gitignore text
+.mailmap text
+Dockerfile* text
+LICENSE text
+Makefile* text
+NOTICE text
